@@ -9,6 +9,12 @@ body {
   font-family: sans-serif;
 }
 
+button {
+  margin: auto;
+  display: block;
+  margin-top: 15px;
+}
+
 .main-container {
   width: 75%;
   margin: 10px auto;
@@ -30,4 +36,16 @@ p{
   text-align: center;
   margin: 3px 0;
   font-size: 17px;
+}
+
+.message {
+  font-size: 2em;
+}
+
+.createdAt {
+  color: orange;
+}
+
+.cookie {
+  color: lightblue;
 }
